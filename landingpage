@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <title>Marketing Landing page</title>
+</head>
+<body>
+    <nav>
+        <div class="logo">
+            <img src="assets/Logo.png" alt="logo">
+        </div>
+        <div class="grow-list">
+        <ul>
+            <li type="none">Home</li>
+            <li type="none">About</li>
+            <li type="none">Services</li>
+            <li type="none">Portfolio</li>
+            <li type="none">Pricing</li>
+        </ul>
+        </div>
+        <div class="first-button">
+            <button class="nav-button">Contact Us</button>
+        </div>
+    </nav>
+
+    <section>
+        <div class="left-section">
+        <h1>We Help You <br> <span>Crush</span> Your <br> Competition</h1>
+        <p>Build trust to connect your brand to billion of user and grow your revenue <br> through SEO</p>
+        <button class="nav-button-btn">See our services</button>
+        </div>
+        <div class="image">
+            <img src="assets/Header Illustration.png" alt="Illustration">
+        </div>
+    </section>
+</body>
+</html>
